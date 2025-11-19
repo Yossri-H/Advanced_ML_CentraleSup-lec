@@ -1,1 +1,2 @@
-# Advanced_ML_CentraleSup-lec
+# Advanced_ML_CentraleSupelec
+Repository for Machine Learning labs in CentraleSupélec
